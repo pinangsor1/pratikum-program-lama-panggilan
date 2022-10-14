@@ -1,8 +1,10 @@
-   #include<iostream.h>
+/merupakan preprocessor
+#include<iostream.h>
 #include<conio.h>
+/bagian isi
 main()
 {
-	 int Jam1, Menit1, Detik1, Jam2, Menit2, Detik2;
+   int Jam1, Menit1, Detik1, Jam2, Menit2, Detik2;
    int Jam, Sisa_Jam, Menit, Detik, Lama_Bicara;
    long int Detik_Awal, Detik_Selesai;
    cout<<"progrm waktu awal"<<endl;
