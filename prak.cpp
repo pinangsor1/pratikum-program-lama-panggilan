@@ -1,7 +1,7 @@
-/merupakan preprocessor
+//merupakan preprocessor
 #include<iostream.h>
 #include<conio.h>
-/bagian isi
+//bagian isi
 main()
 {
    int Jam1, Menit1, Detik1, Jam2, Menit2, Detik2;
